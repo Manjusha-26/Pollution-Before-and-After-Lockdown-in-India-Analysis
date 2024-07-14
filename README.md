@@ -72,6 +72,10 @@ The dataset is sourced from [TUMI Data Hub](https://hub.tumidata.org/dataset/air
 - PM10 and PM2.5 were the most prevalent pollutants.
 - Significant reduction in pollutants was observed after the lockdown, except for NH3 and SO2.
 - Delhi remained the most polluted state before and after lockdown.
+- 
+## Additional Files
+- The R Markdown file (`analysis.Rmd`) shows all the code used to perform analysis.
+- A PDF (`before_after_lockdown_analysis.pdf`) showing the execution of the analysis along with additional points.
 
 ## References
 - [IQAir](https://www.iqair.com/th-en/india)
