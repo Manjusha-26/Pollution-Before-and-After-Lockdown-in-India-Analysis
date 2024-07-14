@@ -59,9 +59,11 @@ The dataset is sourced from [TUMI Data Hub](https://hub.tumidata.org/dataset/air
 
 - **Pollution Levels on Map**:
   - Before Lockdown:
+    
     <img width="497" alt="image" src="https://github.com/user-attachments/assets/5a21c7b9-ab6d-4731-8969-afa5dbded893">
 
   - After Lockdown:
+    
     <img width="496" alt="image" src="https://github.com/user-attachments/assets/2f20a329-0232-408b-aeb5-3edaf4d908b0">
 
 
